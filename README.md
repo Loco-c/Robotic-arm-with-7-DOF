@@ -1,1 +1,0 @@
-# Robotic-arm-with-7-DOF
